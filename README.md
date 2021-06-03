@@ -8,7 +8,6 @@ I'm Jackson, Software Engineer and friend.
 
 - :rocket: I’m looking to collaborate on open-source projects as a volunteer!
 - 😄 Pronouns: He / Him / His
-- 🤔 I'm looking for helping with solving coding issues!
 - 💬 Ask me about Python and Node.js!
 - 🔭 I’m currently learning C#!
 - 📫 How to reach me: jackson.prince@me.com, or https://bit.ly/3cfxsi1
