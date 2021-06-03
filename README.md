@@ -9,7 +9,7 @@ Audio engineer utnred software engineer
 - :rocket: I’m looking to collaborate on open-source projects as a volunteer!
 - 😄 Pronouns: He / Him / His
 - 🔭 I’m currently learning C#!
-- 📫 How to reach me: jackson.prince@me.com, or https://bit.ly/3cfxsi1
+- 📫 How to reach me: https://bit.ly/3cfxsi1 or send an email to jackson.prince@me.com
 - ⚡ Fun fact: The only member of ZZ Top who doesn't have a beard is Frank Beard.
 
 <br/>
