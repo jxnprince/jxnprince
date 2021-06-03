@@ -2,7 +2,7 @@
 
 <br/>
 
-Audio engineer utnred software engineer
+Audio engineer turned software engineer
 <br/>
 
 
