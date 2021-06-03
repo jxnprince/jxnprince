@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif" width="350" height="220" />
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif" width="350" height="220" /> -->
 
 <br/>
 
