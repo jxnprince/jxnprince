@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif" width="500" height="320" />
 
 <br/>
 
@@ -8,20 +8,20 @@ I'm Jackson, Software Engineer and friend.
 <br/>
 
 
-- :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I’m currently learning C#!
+- :rocket: I’m looking to collaborate on open-source projects as a volunteer!
+- 😄 Pronouns: He / Him / His
 - 🤔 I'm looking for helping with solving coding issues!
 - 💬 Ask me about Python and Node.js!
+- 🔭 I’m currently learning C#!
 - 📫 How to reach me: jackson.prince@me.com, or https://bit.ly/3cfxsi1
-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The only member of ZZ Top who doesn't have a beard is Frank Beard.
 
 <br/>
 
 <!-- ![](https://img.shields.io/badge/OS-Linux&&Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
-![](https://img.shields.io/badge/Editor-Intellij&&VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java&&NodeJs&&Go-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Interest-Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Editor-Intellij&&VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+<!-- ![](https://img.shields.io/badge/Code-Java&&NodeJs&&Go-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+<!-- ![](https://img.shields.io/badge/Interest-Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
 <br/>
 
