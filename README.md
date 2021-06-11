@@ -30,9 +30,9 @@ Audio engineer turned software engineer
 <a href="https://github.com/jxnprince">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jxnprince&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Jackson Prince" />
 </a>
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJs/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Interest-UI/UX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interest-UI/UX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
 <br/>
