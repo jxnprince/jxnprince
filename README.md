@@ -26,6 +26,8 @@ Audio engineer turned software engineer
 <img align="left" alt="postgreSQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+
+<br/>
 <br/>
 <a href="https://github.com/jxnprince">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jxnprince&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Jackson Prince" />
