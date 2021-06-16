@@ -13,7 +13,6 @@
 
 <br/>
 
-
 <img align="left" alt="Js" src="https://jxnprince.github.io/images/icons/javascript.png" />
 <img align="left" alt="Py" src="https://jxnprince.github.io/images/icons/python.png" />
 <img align="left" alt="React" src="https://jxnprince.github.io/images/icons/react.png" />
